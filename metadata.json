@@ -1,0 +1,6 @@
+{
+  "name": "StudyKit AI - Exam Prep & Concept Builder",
+  "description": "Transform study notes and document images into structured study kits with core concepts, practice exam questions, and interactive flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
